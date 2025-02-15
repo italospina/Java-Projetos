@@ -15,10 +15,10 @@ Este projeto foi desenvolvido para praticar conceitos como **instanciação de o
 📦 **SmartTvApp** → 📜 `SmartTv.java` (Classe que representa a Smart TV) | 📜 `Usuario.java` (Classe que simula a interação do usuário) | 📜 `README.md` (Documentação do projeto)  
 
 ## ▶️ Como Executar o Projeto  
-1️⃣ **Clone o repositório:** `git clone https://github.com/seu-usuario/seu-repositorio.git`  
-2️⃣ **Acesse a pasta do projeto:** `cd SmartTvApp`  
+1️⃣ **Clone o repositório:** `git clone https://github.com/italospina/Java-Projetos/tree/main/projeto-smart-tv`  
+2️⃣ **Acesse a pasta do projeto:** `cd src`  
 3️⃣ **Compile os arquivos Java:** `javac SmartTv.java Usuario.java`  
-4️⃣ **Execute o programa:** `java Usuario`  
+4️⃣ **Execute o programa:** `java Usuario`   
 
 ## 🔄 Exemplo de Saída no Console  
 ```

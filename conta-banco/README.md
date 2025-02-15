@@ -25,7 +25,10 @@ O objetivo deste projeto é praticar conceitos fundamentais de **Programação O
                         📜 `README.md` (Documentação do projeto)  
 
 ## ▶️ Como Executar o Projeto  
-1️⃣ **Clone o repositório:** `git clone https://github.com/seu-usuario/seu-repositorio.git` | 2️⃣ **Acesse a pasta do projeto:** `cd ContaBancaria` | 3️⃣ **Compile os arquivos Java:** `javac ContaTerminal.java ContaBanco.java` | 4️⃣ **Execute o programa:** `java ContaTerminal`  
+1️⃣ **Clone o repositório:** `git clone https://github.com/italospina/Java-Projetos/tree/main/conta-banco` | 
+2️⃣ **Acesse a pasta do projeto:** `cd ContaBancaria` | 
+3️⃣ **Compile os arquivos Java:** `javac ContaTerminal.java ContaBanco.java` | 
+4️⃣ **Execute o programa:** `java ContaTerminal`  
 
 ## 🔄 Exemplo de Entrada e Saída  
 Digite seu nome:
