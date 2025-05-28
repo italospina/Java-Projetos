@@ -1,18 +1,93 @@
-## Getting Started
+# 🧮 Calculadora Primitiva em Java Swing
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto implementa uma calculadora simples com interface gráfica utilizando Java Swing. A interface permite ao usuário inserir dois valores e realizar operações aritméticas básicas: adição, subtração, multiplicação e divisão. O objetivo principal é praticar o uso de componentes básicos de GUI com `JFrame`, `JTextField` e `JButton`.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este projeto foi criado para exercitar fundamentos de Java Swing, incluindo layout com `GridLayout`, manipulação de eventos com `ActionListener` e tratamento de erros com `JOptionPane`.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Funcionalidades
 
-## Dependency Management
+* ✅ Inserção de dois valores para operação
+* ✅ Operações de `+`, `-`, `*`, `/`
+* ✅ Tratamento de divisão por zero
+* ✅ Validação de entrada numérica
+* ✅ Interface simples e responsiva com `GridLayout`
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 💻 Tecnologias Utilizadas
+
+* 🔹 Java SE 8+
+* 🔹 Java Swing (GUI)
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+📦 CalculadoraPrimitiva
+├── 📜 CalculadoraPrimitivaSwing.java  -> Código principal da calculadora
+├── 📜 README.md                       -> Documentação do projeto
+```
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/italospina/Java-Projetos.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd Java-Projetos/CalculadoraPrimitiva
+```
+
+3. Compile o arquivo Java:
+
+```bash
+javac CalculadoraPrimitivaSwing.java
+```
+
+4. Execute o programa:
+
+```bash
+java CalculadoraPrimitivaSwing
+```
+
+---
+
+## 🔄 Exemplo de Uso
+
+* O usuário insere dois números nos campos "Campo 1" e "Campo 2"
+* Clica em um dos botões `+`, `-`, `*` ou `/`
+* O resultado é exibido no campo inferior "Resultado"
+* Em caso de erro (valor inválido ou divisão por zero), é exibido um alerta
+
+---
+
+## 📌 Melhorias Futuras
+
+* 🔄 Adicionar suporte a operações com teclado
+* 🔄 Estilizar interface com botões personalizados
+* 🔄 Adicionar histórico de operações realizadas
+
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT - sinta-se à vontade para usar, modificar e distribuir.
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+**[Italo Spina](https://github.com/italospina)** 🚀
