@@ -7,10 +7,10 @@ Repositório com diversos projetos em Java, desenvolvidos com o objetivo de prat
 Cada pasta representa um projeto independente com propósito didático:
 
 📦 Java-Projetos
-├── 📂 CalculadoraPrimitiva → Calculadora básica com Swing
-├── 📂 SmartTv → Simulador de Smart TV orientado a objetos
-├── 📂 CalculadoraCompletaGUI → Calculadora com histórico, modo escuro/claro e botões arredondados
-├── 📂 Outros → Projetos diversos em Java
+* ├── 📂 CalculadoraPrimitiva → Calculadora básica com Swing
+* ├── 📂 SmartTv → Simulador de Smart TV orientado a objetos
+* ├── 📂 CalculadoraCompletaGUI → Calculadora com histórico, modo escuro/claro e botões arredondados
+* ├── 📂 Outros → Projetos diversos em Java
 
 ## 🎯 Objetivos Gerais
 
